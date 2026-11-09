@@ -2,7 +2,7 @@
 
 A responsive, mobile friendly guide for students and visitors at Lovely Professional University. It brings campus directions, hostel dining information, meal timings, a sample menu and helpful official links together in one place.
 
-**Live website:** [gleeful-vacherin-699b68.netlify.app](https://gleeful-vacherin-699b68.netlify.app/)
+**Live website:** [LPU Campus Guide](https://lpu-campus-guide.khanaryan1889.chatgpt.site/)
 
 ![LPU Campus Guide website preview](preview.png)
 
